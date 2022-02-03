@@ -7,4 +7,5 @@ expr = (t / 7);
 
 p = po * (Math.pow(x, expr));
 
+
 console.log(p);
